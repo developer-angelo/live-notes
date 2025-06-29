@@ -2,17 +2,17 @@
 	{
 		"name": "Angelo Benites Seminario",
 		"edad": 14,
-		"one": "18 = AD",
-		"two": "19 = AD",
-		"three": "18 = AD",
-		"four": "18 = A"
+		"primerBimestre": "18 = AD",
+		"segundoBimestre": "19 = AD",
+		"tercerBimestre": "?",
+		"cuartoBimestre": "?"
 	},
 	{
 		"name": "Josue Pacherres Anastasio",
 		"edad": 13,
-		"one": "14 = A",
-		"two": "09 = C",
-		"three": "18 = AD",
-		"four": "14 = A"
+		"primerBimestre": "14 = A",
+		"segundoBimestre": "09 = C",
+		"tercerBimestre": "?",
+		"cuartoBimestre": "?"
 	}
 ]
