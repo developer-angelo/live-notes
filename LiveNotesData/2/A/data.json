@@ -2,17 +2,17 @@
 	{
 		"name": "Angelo Benites Seminario",
 		"edad": 14,
-		"notaone": "18 = AD",
-		"notatwo": "19 = AD",
-		"notathree": "18 = AD",
-		"notafour": "18 = A"
+		"one": "18 = AD",
+		"two": "19 = AD",
+		"three": "18 = AD",
+		"four": "18 = A"
 	},
 	{
 		"name": "Josue Pacherres Anastasio",
 		"edad": 13,
-		"notaone": "14 = A",
-		"notatwo": "09 = C",
-		"notathree": "18 = AD",
-		"notafour": "14 = A"
+		"one": "14 = A",
+		"two": "09 = C",
+		"three": "18 = AD",
+		"four": "14 = A"
 	}
 ]
